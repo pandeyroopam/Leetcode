@@ -1,5 +1,5 @@
 package Leetcode.june;
-// Given an integer array nums and an integer k, return true if nums has a good subarray or false otherwise.
+
 
 import java.util.HashMap;
 
